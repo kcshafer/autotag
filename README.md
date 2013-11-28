@@ -8,9 +8,12 @@ Uses
 =======
 Moving off the bash getopts soon, but used them for proof of concept
 
--o Operation {forcetag,supertag}
+-o Operation {forcetag,supertag} 
+
 -e Extension {file extension to look for when using supertag}
+
 -d Directory {directory to tag in, if not supplied using working directory}
+
 -t Tag      {the tag to use for the files}
 
 Next Steps
